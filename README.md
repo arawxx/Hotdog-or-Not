@@ -1,4 +1,4 @@
-##Hotdog or not?
+## Hotdog or not?
 
 A simple binary classification of pictures of hotdogs, using CNNs.
 
